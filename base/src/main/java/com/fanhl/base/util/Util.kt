@@ -1,4 +1,4 @@
-package com.fanhl.base
+package com.fanhl.base.util
 
 import android.util.Log
 import android.util.SparseArray

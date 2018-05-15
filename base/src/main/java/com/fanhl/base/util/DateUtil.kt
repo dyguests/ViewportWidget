@@ -1,4 +1,4 @@
-package com.fanhl.base
+package com.fanhl.base.util
 
 import java.text.ParseException
 import java.text.SimpleDateFormat
